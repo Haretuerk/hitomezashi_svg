@@ -1,4 +1,4 @@
-#Hitomezashi pattern generator
+# Hitomezashi pattern generator
 
 Creates a SVG file with random hitomezashi pattern
 
