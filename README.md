@@ -2,7 +2,7 @@
 
 Creates a SVG file with random hitomezashi pattern
 
-Uses svgwrite
+### Uses svgwrite
 ```
 pip install sqgwrite
 ```
